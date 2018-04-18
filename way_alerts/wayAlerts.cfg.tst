@@ -1,0 +1,10 @@
+<database_information>
+192.168.168.43
+TableauUser
+wayPass1234
+prod_way_db
+</database_information>
+<email_listing>
+arun.krishnan@way.com
+rahil.shah@way.com
+</email_listing>

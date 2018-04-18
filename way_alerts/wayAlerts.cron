@@ -1,0 +1,1 @@
+0 6,11,15 * * * /home/wayadmin/scripts/alerts/wayAlerts/wayAlerts.sh >> /home/wayadmin/scripts/alerts/wayAlerts/wayAlerts.log 2>&1
